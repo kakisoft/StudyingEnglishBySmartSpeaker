@@ -74,7 +74,7 @@ https://smarthacks.jp/db/
 とりあえず、次のアプリを試してみました。
 ---
 ### 使ってみたアプリ（９種）
-
+　  
  * [英語フレーズリピーター](https://assistant.google.com/services/a/uid/0000004c46922071?hl=ja)
  * [和英翻訳とクイズ](https://assistant.google.com/services/a/uid/00000053df2f05b0?hl=ja)
  * [教えてピーター](https://assistant.google.com/services/a/uid/0000007be9e61038?hl=ja)
@@ -85,8 +85,8 @@ https://smarthacks.jp/db/
  * [とっさの旅英語](https://assistant.google.com/services/a/uid/0000009c6585654d?hl=ja)
  * [Best Teacher](https://assistant.google.com/services/a/uid/0000007a92874042?hl=ja)
 ---
-### 実用性が無かった
-### と思ったアプリ（５種）
+#### 実用性が無かった
+#### と思ったアプリ（５種）
 　  
  * 英語フレーズリピーター
  * 和英翻訳とクイズ
@@ -97,9 +97,9 @@ https://smarthacks.jp/db/
 　  
 @size[0.6em](多いんで理由は割愛します。)
 ---
-### 最初は使ってたけど、
-### すぐに使わなくなった（３種）
-　  
+#### 最初は使ってたけど、
+#### すぐに使わなくなった（３種）
+　   s
  * レアジョブイングリッシュ
  * Best Teacher
  * こども英会話
