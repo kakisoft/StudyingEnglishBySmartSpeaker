@@ -64,7 +64,8 @@ Google Home
 ---
 アプリの検索はこれが便利。
 　  
-##### SmartHacks DataBank
+　  
+@size[1.2em](SmartHacks DataBank)  
 https://smarthacks.jp/db/
 　  
 　  
