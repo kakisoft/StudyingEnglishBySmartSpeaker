@@ -71,23 +71,23 @@ Alexa、Clover の検索もできます。
 ---
 #### 使ってみたアプリ
 　  
- * １．英語フレーズリピーター
- * ２． 和英翻訳とクイズ
- 3. 教えてピーター
- 4. こども英会話
- 5. えいごであそぼ with Orton
- 6. Jump-Start!瞬時英訳
- 7. レアジョブイングリッシュ
- 8. とっさの旅英語
- 9. Best Teacher
+ * [英語フレーズリピーター](https://assistant.google.com/services/a/uid/0000004c46922071?hl=ja)
+ * [和英翻訳とクイズ](https://assistant.google.com/services/a/uid/00000053df2f05b0?hl=ja)
+ * [教えてピーター](https://assistant.google.com/services/a/uid/0000007be9e61038?hl=ja)
+ * [こども英会話](https://assistant.google.com/services/a/uid/000000926e4866ac?hl=ja)
+ * [えいごであそぼ with Orton](https://assistant.google.com/services/a/uid/00000083a746a293?hl=ja)
+ * [Jump-Start!瞬時英訳](https://assistant.google.com/services/a/uid/00000059bc840700?hl=ja)
+ * [レアジョブイングリッシュ](https://assistant.google.com/services/a/uid/00000098a27a45b3?hl=ja)
+ * [とっさの旅英語](https://assistant.google.com/services/a/uid/0000009c6585654d?hl=ja)
+ * [Best Teacher](https://assistant.google.com/services/a/uid/0000007a92874042?hl=ja)
 ---
 #### あんま実用性が無かったと思ったの
 　  
- 1. 英語フレーズリピーター ->  ×
- 2. 和英翻訳とクイズ ->  ×
- 3. 教えてピーター ->  ×
- 5. えいごであそぼ with Orton ->  ×
- 6. Jump-Start!瞬時英訳 ->  ×
+ * 英語フレーズリピーター
+ * 和英翻訳とクイズ
+ * 教えてピーター
+ * えいごであそぼ with Orton
+ * Jump-Start!瞬時英訳
 ---
 ### 最初は使ってたけど、すぐに使わなくなったの
 
