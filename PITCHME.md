@@ -73,7 +73,7 @@ https://smarthacks.jp/db/
 ---
 とりあえず、次のアプリを試してみました。
 ---
-#### 使ってみたアプリ（９種）
+### 使ってみたアプリ（９種）
 
  * [英語フレーズリピーター](https://assistant.google.com/services/a/uid/0000004c46922071?hl=ja)
  * [和英翻訳とクイズ](https://assistant.google.com/services/a/uid/00000053df2f05b0?hl=ja)
