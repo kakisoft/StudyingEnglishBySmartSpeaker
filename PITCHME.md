@@ -85,8 +85,7 @@ https://smarthacks.jp/db/
  * [とっさの旅英語](https://assistant.google.com/services/a/uid/0000009c6585654d?hl=ja)
  * [Best Teacher](https://assistant.google.com/services/a/uid/0000007a92874042?hl=ja)
 ---
-#### 実用性が無かった
-#### と思ったアプリ（５種）
+#### 実用性が無かったと思った
 　  
  * 英語フレーズリピーター
  * 和英翻訳とクイズ
@@ -94,12 +93,13 @@ https://smarthacks.jp/db/
  * えいごであそぼ with Orton
  * Jump-Start!瞬時英訳
 
-　  
-@size[0.6em](多いんで理由は割愛します。)
+---
+多いんで、個別の理由については  
+割愛します。
 ---
 #### 最初は使ってたけど、
 #### すぐに使わなくなった（３種）
-　   s
+　   
  * レアジョブイングリッシュ
  * Best Teacher
  * こども英会話
