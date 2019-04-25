@@ -86,6 +86,7 @@ https://smarthacks.jp/db/
  * [Best Teacher](https://assistant.google.com/services/a/uid/0000007a92874042?hl=ja)
 ---
 #### 実用性が無かったと思った
+#### アプリ（５種）
 　  
  * 英語フレーズリピーター
  * 和英翻訳とクイズ
